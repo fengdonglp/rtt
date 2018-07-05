@@ -23,6 +23,7 @@
   "homepage": "https://github.com/fengdonglp/rtt#readme",
   "dependencies": {
     "baidu-aip-sdk": "^2.3.3",
-    "fluent-ffmpeg": "^2.1.2"
+    "fluent-ffmpeg": "^2.1.2",
+    "glob": "^7.1.2"
   }
 }
