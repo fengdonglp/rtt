@@ -1,7 +1,7 @@
 {
-  "name": "rtt",
+  "name": "audio-to-text",
   "version": "1.0.0",
-  "description": "A tool to convert a recording into a text.",
+  "description": "A tool to convert an audio into a text.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   "keywords": [
     "ffmpeg",
     "nodejs",
-    "recording"
+    "baidu-api",
+    "convert"
   ],
   "author": "fengdong (fengdonglp@163.com)",
   "license": "MIT",
