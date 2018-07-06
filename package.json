@@ -1,6 +1,6 @@
 {
   "name": "audio-to-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool to convert an audio into a text.",
   "main": "index.js",
   "scripts": {
